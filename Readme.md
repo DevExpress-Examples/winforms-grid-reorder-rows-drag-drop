@@ -14,7 +14,7 @@
 > * Move selected rows to another Grid control.
 > * Reorder selected rows within the GridView (supported data sources: `IList`, `DataTable`, `DataView`).
 >
-> Use the [GridView.OptionsDragDrop](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.OptionsDragDrop?v=23.2) property to configure drag-and-drop operations that users can perform within the GridView.
+> Use the [GridView.OptionsDragDrop](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.OptionsDragDrop) property to configure drag-and-drop operations that users can perform within the GridView.
 
 This example demonstrates how to attach the [Drag-and-Drop Behavior](https://docs.devexpress.com/WindowsForms/118656/common-features/behaviors/drag-and-drop-behavior) to the WinForms Grid Control and handle drag-drop-related events to allow users to reorder data rows using drag-and-drop.
 
